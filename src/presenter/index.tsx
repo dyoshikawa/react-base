@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDom from 'react-dom'
-import { Top } from './page/top'
 import UniversalRouter from 'universal-router'
+import { Top } from './page/top'
 ;(async () => {
   const rootElement = document.querySelector('#root')
 
